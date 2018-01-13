@@ -1,4 +1,4 @@
 # Knn
 
-Serial and parallel (blocking,nonblocking) implementation of knn algorithm
+Serial and parallel implementation of knn algorithm
 
